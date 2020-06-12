@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Solution.Domain.Entities.Stock>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="myTable" class="display">
+    <thead>
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StockId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateAjout)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barcode)
+            </th>
+            <th></th>
+        </tr>
+    <thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StockId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAjout)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Barcode)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.StockId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.StockId })
+            </td>
+        </tr>
+        }
+    </tbody>
+
+</table>
+<link href="//cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel="stylesheet" />
+@section scripts {
+    <script src="//cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}

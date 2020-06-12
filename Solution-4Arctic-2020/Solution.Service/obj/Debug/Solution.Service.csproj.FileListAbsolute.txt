@@ -1,0 +1,64 @@
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete

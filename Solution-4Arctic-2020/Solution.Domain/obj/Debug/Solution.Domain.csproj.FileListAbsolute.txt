@@ -1,0 +1,43 @@
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\SBS\Desktop\.net\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\user\Desktop\ffffffffff\Moetaz\Solution-4Arctic-2020 (3)\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
